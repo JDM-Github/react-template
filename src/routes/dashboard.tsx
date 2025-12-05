@@ -2,7 +2,7 @@
 export default function Dashboard() {
 
 	return (
-		<div className="lg:flex inline-block space-y-6 lg:space-x-5 w-full">
+		<div className="w-[500px] h-[500px] bg-green-500">
 			TEST
 		</div>
 	);
