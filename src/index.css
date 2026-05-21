@@ -6,7 +6,7 @@
 }
 
 * {
-  user-select: none !important;
+  /* user-select: none !important; */
 }
 html,
 body {
@@ -15,7 +15,7 @@ body {
     color-scheme: dark;
   }
   overflow-x: hidden;
-  overflow-y: hidden;
+  /* overflow-y: hidden; */
 }
 
 .scrollbar-thin {
